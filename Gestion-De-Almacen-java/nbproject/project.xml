@@ -4,7 +4,10 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>Gestion-De-Almacen-java</name>
-            <source-roots/>
+            <source-roots>
+                <root id="src.databaseManager.dir"/>
+                <root id="src.src.dir"/>
+            </source-roots>
             <test-roots/>
         </data>
     </configuration>
